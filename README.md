@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Part of my learning path into Data Analysis. Explore my learning progress and projects on my Data Analyst website (https://dataanalyst.hefe.ca).
+Part of my learning path into Data Analysis. Explore my learning progress and projects on [my Data Analyst website](https://dataanalyst.hefe.ca).
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
 
